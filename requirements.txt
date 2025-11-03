@@ -1,0 +1,7 @@
+pandas
+pyarrow
+psycopg2-binary
+SQLAlchemy
+requests
+scikit-learn
+matplotlib
