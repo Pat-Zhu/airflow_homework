@@ -24,5 +24,8 @@ docker compose build
 docker compose up airflow-init
 docker compose up -d
 # UI: http://localhost:8080  (user: airflow / pass: airflow)
+```
 
-
+## Screenshot
+![Successful run](screenshots/run-success.png)
+![DAG graph](screenshots/graph.png)
